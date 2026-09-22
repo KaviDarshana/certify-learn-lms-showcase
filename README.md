@@ -1,4 +1,4 @@
-# 🎓 Certify Learn - Interactive Learning Management System (LMS)
+<img width="3000" height="4000" alt="IMG_20250117_123321" src="https://github.com/user-attachments/assets/81714537-7cb4-40a8-bd94-47ad8601ee65" /># 🎓 Certify Learn - Interactive Learning Management System (LMS)
 
 > **Note:** The source code for this project is kept private to maintain academic integrity and system security. This repository serves as a technical showcase of the system architecture, UI/UX design, and development process.
 
@@ -86,3 +86,8 @@ Dynamically rendered completion certificates generated upon passing sequential c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="PHP" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </div>
+
+---
+
+### 📫 Let's Connect
+**Kavindu Herath** - [Connect with me on LinkedIn](https://www.linkedin.com/in/in/kavindu-d-herath)
