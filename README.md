@@ -90,4 +90,4 @@ Dynamically rendered completion certificates generated upon passing sequential c
 ---
 
 ### 📫 Let's Connect
-**Kavindu Herath** - [Connect with me on LinkedIn](https://www.linkedin.com/in/in/kavindu-d-herath)
+**Kavindu Herath** - [Connect with me on LinkedIn](https://www.linkedin.com/in/kavindu-d-herath)
